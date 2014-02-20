@@ -1,0 +1,12 @@
+{
+  "name": "yields-get-selected-text",
+  "description": "get user selected text",
+  "version": "0.0.1",
+  "keywords": [
+    "selection",
+    "text"
+  ],
+  "main": "index.js",
+  "dependencies": {},
+  "license": "MIT"
+}
